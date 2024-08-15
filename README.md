@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil :
+# Boas vindos ao meu perfil :
 Meu nome é Raul Russis
 
 Estou estudando na Alura
